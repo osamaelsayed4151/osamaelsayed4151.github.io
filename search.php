@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Boogle</title>
-<meta charset="UTF-8">
-<link rel="icon" href="Boogle Favicon.svg" type="image/svg" sizes="70x72">
-</head>
-<body>
-
- <?php
+<?php
 	/*
 	  This is the main template part used in the tabbed search results as they are found at www.paidmembershipspro.com.
 	  This will not function on it's own. Some notes:
@@ -127,6 +118,3 @@
 	<?php //get_sidebar(); ?>
 	
 </div> <!-- end row -->
-  
-</body>
-</html>
